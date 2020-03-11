@@ -4,6 +4,11 @@
       "url": "https://www.angsarap.net/",
       "name": "Ang Sarap",
       "latestSelector": "section.content div:last-child div.featured article:not(.tag-restaurant) h2.post-title>a"
+    },
+    {
+      "url": "https://www.angsarap.net/",
+      "name": "Ang Sarap",
+      "latestSelector": "section.content div:last-child div.post-list .post-row article:not(.tag-restaurant) h2>a"
     }
   ]
 }
