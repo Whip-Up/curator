@@ -9,6 +9,31 @@
       "url": "https://www.angsarap.net/",
       "name": "Ang Sarap",
       "latestSelector": "section.content div:last-child div.post-list .post-row article:not(.tag-restaurant) h2>a"
+    },
+    {
+      "url": "http://www.whatmegansmaking.com/",
+      "name": "What Megan's Cooking",
+      "latestSelector": "div#content .post:first-of-type > .posttitle a"
+    },
+    {
+      "url": "https://www.101cookingfortwo.com/",
+      "name": "101 Cooking For Two",
+      "latestSelector": ".feast-recipe-index:nth-of-type(6) li:first-of-type > a"
+    },
+    {
+      "url": "https://whiskitrealgud.com/",
+      "name": "Whisk It Real Gud",
+      "latestSelector": "section.featuredpost:first-of-type article:first-of-type h2 a"
+    },
+    {
+      "url": "https://theenglishkitchen.blogspot.com/",
+      "name": "The English Kitchen",
+      "latestSelector": "div#main1 div.blog-posts .date-outer:first-child article h1[itemprop=name] > a"
+    },
+    {
+      "url": "https://coolbhavanas.com/",
+      "name": "Cool Bhavanas",
+      "latestSelector": "main .row > article:first-child a"
     }
   ]
 }
